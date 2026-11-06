@@ -1,0 +1,31 @@
+Date,OrderID,Product,Category,Quantity,Unit Price,Unit Cost,Discount
+2026-01-05,O1001,Wireless Mouse,Accessories,8,650,350,5
+2026-01-08,O1002,Keyboard,Accessories,5,1200,700,10
+2026-01-12,O1003,USB-C Hub,Accessories,4,1800,1100,8
+2026-01-17,O1004,Laptop Stand,Accessories,6,900,500,0
+2026-01-21,O1005,Monitor 24in,Electronics,3,9500,7200,5
+2026-02-03,O1006,Wireless Mouse,Accessories,10,650,350,10
+2026-02-07,O1007,Keyboard,Accessories,6,1200,700,5
+2026-02-11,O1008,USB-C Hub,Accessories,3,1800,1100,15
+2026-02-16,O1009,Laptop Stand,Accessories,8,900,500,5
+2026-02-23,O1010,Monitor 24in,Electronics,4,9500,7200,10
+2026-03-02,O1011,Wireless Mouse,Accessories,12,650,350,5
+2026-03-06,O1012,Keyboard,Accessories,7,1200,700,10
+2026-03-10,O1013,USB-C Hub,Accessories,5,1800,1100,10
+2026-03-18,O1014,Laptop Stand,Accessories,7,900,500,0
+2026-03-25,O1015,Monitor 24in,Electronics,4,9500,7200,5
+2026-04-04,O1016,Wireless Mouse,Accessories,13,650,350,5
+2026-04-09,O1017,Keyboard,Accessories,8,1200,700,5
+2026-04-14,O1018,USB-C Hub,Accessories,4,1800,1100,25
+2026-04-19,O1019,Laptop Stand,Accessories,6,900,500,10
+2026-04-26,O1020,Monitor 24in,Electronics,3,9500,7200,10
+2026-05-03,O1021,Wireless Mouse,Accessories,5,650,350,5
+2026-05-08,O1022,Keyboard,Accessories,3,1200,700,20
+2026-05-12,O1023,USB-C Hub,Accessories,2,1800,1100,30
+2026-05-17,O1024,Laptop Stand,Accessories,4,900,500,15
+2026-05-24,O1025,Monitor 24in,Electronics,2,9500,7200,15
+2026-06-02,O1026,Wireless Mouse,Accessories,4,650,350,5
+2026-06-07,O1027,Keyboard,Accessories,2,1200,700,25
+2026-06-13,O1028,USB-C Hub,Accessories,1,1800,1100,35
+2026-06-18,O1029,Laptop Stand,Accessories,3,900,500,15
+2026-06-25,O1030,Monitor 24in,Electronics,1,9500,7200,20
